@@ -10,6 +10,9 @@
             for (int i = 0; i < a; i++) 
             {
                 Console.WriteLine(i);
+                const int b = 50;
+                Console.WriteLine(b);
+
             }
 
         }
